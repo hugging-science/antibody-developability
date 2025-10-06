@@ -1,0 +1,6 @@
+[submodule "projects/abmelt"]
+	path = projects/abmelt
+	url = https://github.com/Praful932/antibody-developability-abmelt.git
+[submodule "projects/polyreactivity"]
+	path = projects/polyreactivity
+	url = https://github.com/ludocomito/antibody_training_pipeline_ESM.git
